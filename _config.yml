@@ -15,8 +15,8 @@ url:              http://digitalframeworks.github.io
 baseurl:          /
 
 author:
-  name:           'David Eads'
-  url:            https://twitter.com/eads
+  name:           'Patrick Martin'
+  url:            https://twitter.com/P_R_MARTIN
 
 paginate:         15
 
@@ -30,5 +30,5 @@ sass:
 navlinks:
 - url: https://nwudigitalframeworks.slack.com/messages/general/
   title: Slack
-- url: mailto:davideads@gmail.com
+- url: mailto:patrick.martin@u.northwestern.edu
   title: Email
